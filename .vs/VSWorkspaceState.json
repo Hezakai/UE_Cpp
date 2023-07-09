@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\IntroProject",
+    "\\IntroProject\\Content\\Collections",
+    "\\WarehouseWreckage",
+    "\\WarehouseWreckage\\DerivedDataCache",
+    "\\WarehouseWreckage\\DerivedDataCache\\VT",
+    "\\WarehouseWreckage\\Intermediate",
+    "\\WarehouseWreckage\\Intermediate\\ShaderAutogen",
+    "\\WarehouseWreckage\\Intermediate\\ShaderAutogen\\PCD3D_ES3_1",
+    "\\WarehouseWreckage\\Intermediate\\ShaderAutogen\\PCD3D_SM5"
+  ],
+  "SelectedNode": "\\WarehouseWreckage\\Intermediate\\ShaderAutogen\\PCD3D_ES3_1\\AutogenShaderHeaders.ush",
+  "PreviewInSolutionExplorer": false
+}

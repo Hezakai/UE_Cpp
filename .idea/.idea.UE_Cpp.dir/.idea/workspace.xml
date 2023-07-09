@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5143d380-81a2-4107-b6ec-9f602ab58928" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/UE_Cpp/FileContentIndex/5377248d-1761-491f-b3ec-85a71f4b1f8c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/UE_Cpp/FileContentIndex/8287a774-6a4b-4146-bb1f-bed30d13536a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/UE_Cpp/v17/.wsuo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/UE_Cpp/v17/.wsuo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WarehouseWreckage/Content/StarterContentDev/Minimal_Default.umap" beforeDir="false" afterPath="$PROJECT_DIR$/WarehouseWreckage/Content/StarterContentDev/Minimal_Default.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WarehouseWreckage/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/WarehouseWreckage/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WarehouseWreckage/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/WarehouseWreckage/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WarehouseWreckage/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/WarehouseWreckage/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WarehouseWreckage/Saved/Logs/WarehouseWreckage.log" beforeDir="false" afterPath="$PROJECT_DIR$/WarehouseWreckage/Saved/Logs/WarehouseWreckage.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2SLUz67UzvDwvIHVg39UZWyQIo4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5143d380-81a2-4107-b6ec-9f602ab58928" name="Changes" comment="" />
+      <created>1688925615735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688925615735</updated>
+      <workItem from="1688925618639" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
