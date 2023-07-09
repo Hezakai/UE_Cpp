@@ -1500,3 +1500,253 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.09-16.08.34:446][853]LogFileHelpers: Loading map 'StarterMap' took 1.838
 [2023.07.09-16.09.10:960][178]LogSlate: Window 'Message Log' being destroyed
 [2023.07.09-16.09.10:967][178]LogSlate: Window 'Message Log' being destroyed
+[2023.07.09-16.09.27:241][624]LogDerivedDataCache: C:/Users/Eric/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.064 and deleted 0 files with total size 0 MiB. Scanned 2142 files in 2130 folders with total size 51 MiB.
+[2023.07.09-16.11.07:501][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.09-16.11.11:576][277]LogSlate: Window 'Save Content' being destroyed
+[2023.07.09-16.11.11:586][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.09-16.11.11:761][277]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/Materials/M_Chair
+[2023.07.09-16.11.11:772][277]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/M_Chair1427125F414FB185C28989A5E00414AD.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset'
+[2023.07.09-16.11.11:803][277]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/Materials/M_TableRound
+[2023.07.09-16.11.11:804][277]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/M_TableRound37A778994E57F9C3B9148DBDEB4F903E.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset'
+[2023.07.09-16.11.11:811][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 496 ms)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: ================================================
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Total job queries 486, among them cache hits 35 (7.20%)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Tracking 451 distinct input hashes that result in 296 distinct outputs (65.63%)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: RAM used: 3.60 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.22%
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Shaders Compiled: 370
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Jobs assigned 370, completed 370 (100.00%)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Time job spent in pending queue: average 12.55 s, longest 24.42 s
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Job execution time: average 1.45 s, max 8.63 s
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Job life time (pending + execution): average 14.00 s, max 26.17
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.82 s
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Jobs were issued in 323 batches (only local compilation was used), average 1.15 jobs/batch
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Average processing rate: 13.80 jobs/sec
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Total thread time: 275.38 s
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Total thread preprocess time: 12.33 s
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Percentage time preprocessing: 4.48%
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Effective parallelization: 10.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    4 times, average 1.60 sec, max 2.50 sec, min 0.66 sec)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 1.53 sec, max 2.44 sec, min 0.71 sec)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 1.48 sec, max 2.48 sec, min 0.74 sec)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 1.46 sec, max 2.46 sec, min 0.71 sec)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.41 sec, max 2.15 sec, min 0.75 sec)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 13.57% of total time (compiled   46 times, average 0.81 sec, max 2.48 sec, min 0.62 sec)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 12.82% of total time (compiled   43 times, average 0.82 sec, max 2.18 sec, min 0.66 sec)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 11.56% of total time (compiled   46 times, average 0.69 sec, max 0.81 sec, min 0.59 sec)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 11.02% of total time (compiled   45 times, average 0.67 sec, max 1.01 sec, min 0.53 sec)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.30% of total time (compiled   45 times, average 0.57 sec, max 0.74 sec, min 0.50 sec)
+[2023.07.09-16.11.11:853][277]LogShaderCompilers: Display: ================================================
+[2023.07.09-16.11.11:854][277]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.07.09-16.11.11:854][277]Cmd: MAP LOAD FILE="../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.07.09-16.11.11:854][277]LightingResults: New page: Lighting Build
+[2023.07.09-16.11.11:854][277]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2023.07.09-16.11.11:858][277]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.09-16.11.11:859][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.09-16.11.11:859][277]MapCheck: New page: Map Check
+[2023.07.09-16.11.11:859][277]LightingResults: New page: Lighting Build
+[2023.07.09-16.11.11:866][277]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.09-16.11.11:870][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.07.09-16.11.11:872][277]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.07.09-16.11.11:873][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.09-16.11.11:880][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.09-16.11.11:887][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.09-16.11.11:894][277]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2023.07.09-16.11.11:894][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-16.11.11:895][277]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.07.09-16.11.11:902][277]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.09-16.11.11:917][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.09-16.11.11:938][277]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.09-16.11.11:939][277]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2023.07.09-16.11.11:939][277]LogFileHelpers: Loading map 'Minimal_Default' took 0.085
+[2023.07.09-16.11.11:957][277]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.09-16.11.11:957][277]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair
+[2023.07.09-16.11.11:957][277]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound
+[2023.07.09-16.11.23:129][454]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.09-16.11.24:582][600]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2023.07.09-16.11.24:584][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-16.11.25:666][600]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.09-17.09.27:254][670]LogDerivedDataCache: C:/Users/Eric/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.076 and deleted 0 files with total size 0 MiB. Scanned 2151 files in 2139 folders with total size 51 MiB.
+[2023.07.09-17.14.26:505][989]LogSlate: Window 'Minimal_Default' being destroyed
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: ================================================
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Total job queries 498, among them cache hits 37 (7.43%)
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Tracking 460 distinct input hashes that result in 301 distinct outputs (65.43%)
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: RAM used: 3.68 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.22%
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Shaders Compiled: 379
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Jobs assigned 380, completed 379 (99.74%)
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Average time worker was idle: 26.57 s
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Time job spent in pending queue: average 12.22 s, longest 24.42 s
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 8.63 s
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Job life time (pending + execution): average 13.69 s, max 26.17
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.38 s
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Jobs were issued in 333 batches (only local compilation was used), average 1.14 jobs/batch
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Average processing rate: 12.90 jobs/sec
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Total thread time: 281.67 s
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Total thread preprocess time: 12.59 s
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Percentage time preprocessing: 4.47%
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Effective parallelization: 9.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.09-17.15.40:418][520]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    4 times, average 1.60 sec, max 2.50 sec, min 0.66 sec)
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 1.46 sec, max 2.46 sec, min 0.71 sec)
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.41 sec, max 2.15 sec, min 0.75 sec)
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    5 times, average 1.40 sec, max 2.48 sec, min 0.74 sec)
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 1.40 sec, max 2.11 sec, min 0.77 sec)
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 13.26% of total time (compiled   46 times, average 0.81 sec, max 2.48 sec, min 0.62 sec)
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 12.53% of total time (compiled   43 times, average 0.82 sec, max 2.18 sec, min 0.66 sec)
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 11.30% of total time (compiled   46 times, average 0.69 sec, max 0.81 sec, min 0.59 sec)
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 10.77% of total time (compiled   45 times, average 0.67 sec, max 1.01 sec, min 0.53 sec)
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.10% of total time (compiled   45 times, average 0.57 sec, max 0.74 sec, min 0.50 sec)
+[2023.07.09-17.15.40:419][520]LogShaderCompilers: Display: ================================================
+[2023.07.09-17.17.33:052][951]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.09-17.17.33:052][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.09-17.18.19:183][469]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behavior for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2023.07.09-17.18.19:190][469]LogStaticMesh: Display: Building static mesh Skybox...
+[2023.07.09-17.18.19:208][469]LogStaticMesh: Display: Building static mesh SM_Arrows...
+[2023.07.09-17.18.19:209][469]LogStaticMesh: Display: Building static mesh SM_AssetPlatform...
+[2023.07.09-17.18.19:234][469]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.07.09-17.18.19:235][469]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2023.07.09-17.18.19:237][469]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows
+[2023.07.09-17.18.25:398][886]LogObjectTools: Deleting 1 worlds: /Game/StarterContent/Maps/Advanced_Lighting_2.Advanced_Lighting_2
+[2023.07.09-17.18.25:398][886]LogObjectTools: Currently 5 active worlds: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_4
+[2023.07.09-17.18.25:428][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.07.09-17.18.26:707][886]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.09-17.18.26:712][886]LogWorld: UWorld::CleanupWorld for Advanced_Lighting_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.09-17.18.26:712][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.09-17.18.26:739][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.07.09-17.18.26:760][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.07.09-17.18.26:779][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.07.09-17.18.30:760][241]LogSlate: Window 'Open Level' being destroyed
+[2023.07.09-17.18.43:856][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 64x64 x1x1x1) (Required Memory Estimate: 0.533824 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:856][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData:SkyOcclusion0_2 (TFO_AutoDXT, 64x32 x1x1x1) (Required Memory Estimate: 0.387945 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:856][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 0.713502 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:856][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 256x128 x1x1x1) (Required Memory Estimate: 5.270758 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:856][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 7.604136 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:856][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.479041 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:890][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.07.09-17.18.43:917][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 64x64 x1x1x1) (Required Memory Estimate: 0.533824 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:917][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_2 (TFO_AutoDXT, 64x32 x1x1x1) (Required Memory Estimate: 0.387945 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:917][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 0.713502 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:918][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Minimal_Default_BuiltData.Minimal_Default_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 512x256 x1x1x1) (Required Memory Estimate: 20.895758 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:918][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Minimal_Default_BuiltData.Minimal_Default_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.229082 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:918][540]LogTexture: Display: Building textures: /Game/StarterContent/Maps/NewFolder/Minimal_Default_BuiltData.Minimal_Default_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.479156 MB), EncodeSpeed: Fast
+[2023.07.09-17.18.43:975][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: ================================================
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Total job queries 630, among them cache hits 37 (5.87%)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Tracking 516 distinct input hashes that result in 327 distinct outputs (63.37%)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: RAM used: 4.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.24%
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Shaders Compiled: 435
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Jobs assigned 447, completed 435 (97.32%)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Average time worker was idle: 129.29 s
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Time job spent in pending queue: average 10.63 s, longest 24.42 s
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Job execution time: average 1.38 s, max 8.63 s
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Job life time (pending + execution): average 12.29 s, max 26.17
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.19 s
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Jobs were issued in 400 batches (only local compilation was used), average 1.12 jobs/batch
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Average processing rate: 12.36 jobs/sec
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Total thread time: 319.82 s
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Total thread preprocess time: 15.12 s
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Percentage time preprocessing: 4.73%
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Effective parallelization: 9.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    4 times, average 1.60 sec, max 2.50 sec, min 0.66 sec)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 1.46 sec, max 2.46 sec, min 0.71 sec)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.41 sec, max 2.15 sec, min 0.75 sec)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    5 times, average 1.40 sec, max 2.48 sec, min 0.74 sec)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 1.40 sec, max 2.11 sec, min 0.77 sec)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 12.55% of total time (compiled   48 times, average 0.84 sec, max 2.18 sec, min 0.66 sec)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 11.68% of total time (compiled   46 times, average 0.81 sec, max 2.48 sec, min 0.62 sec)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 10.65% of total time (compiled   50 times, average 0.68 sec, max 1.01 sec, min 0.53 sec)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 9.95% of total time (compiled   46 times, average 0.69 sec, max 0.81 sec, min 0.59 sec)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.84% of total time (compiled   54 times, average 0.58 sec, max 0.74 sec, min 0.50 sec)
+[2023.07.09-17.18.45:194][588]LogShaderCompilers: Display: ================================================
+[2023.07.09-17.18.48:038][719]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.07.09-17.18.48:038][719]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.07.09-17.18.50:968][957]LogMetaData: Removing '/Game/NewFolder/Minimal_Default.SKEL_Minimal_Default_C' ref from Metadata '/Game/StarterContent/Maps/NewFolder/Minimal_Default.PackageMetaData'
+[2023.07.09-17.18.50:968][957]LogMetaData: Removing '/Game/NewFolder/Minimal_Default.Minimal_Default_C' ref from Metadata '/Game/StarterContent/Maps/NewFolder/Minimal_Default.PackageMetaData'
+[2023.07.09-17.18.50:972][957]LogMetaData: Removing '/Game/NewFolder/StarterMap.SKEL_StarterMap_C' ref from Metadata '/Game/StarterContent/Maps/NewFolder/StarterMap.PackageMetaData'
+[2023.07.09-17.18.50:972][957]LogMetaData: Removing '/Game/NewFolder/StarterMap.StarterMap_C' ref from Metadata '/Game/StarterContent/Maps/NewFolder/StarterMap.PackageMetaData'
+[2023.07.09-17.18.50:972][957]LogMetaData: Removing '/Game/NewFolder/StarterMap.SKEL_StarterMap_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Maps/NewFolder/StarterMap.PackageMetaData'
+[2023.07.09-17.18.50:972][957]LogMetaData: Removing '/Game/NewFolder/StarterMap.StarterMap_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Maps/NewFolder/StarterMap.PackageMetaData'
+[2023.07.09-17.18.50:974][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.09-17.18.51:014][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-17.18.51:037][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.07.09-17.18.51:049][957]LogSavePackage: Moving output files for package: /Game/NewFolder/Minimal_Default
+[2023.07.09-17.18.51:049][957]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/Minimal_DefaultE2ACB6644D5D054482A135B50E1F97D5.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/Minimal_Default.umap'
+[2023.07.09-17.18.51:062][957]LogFileHelpers: Saving map 'Minimal_Default' took 0.048
+[2023.07.09-17.18.51:063][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-17.18.51:097][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.07.09-17.18.51:164][957]LogSavePackage: Moving output files for package: /Game/NewFolder/StarterMap
+[2023.07.09-17.18.51:164][957]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/StarterMap67869DFE4C7E7D659840CB81E75556D6.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/StarterMap.umap'
+[2023.07.09-17.18.51:182][957]LogFileHelpers: Saving map 'StarterMap' took 0.121
+[2023.07.09-17.18.51:183][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-17.18.51:208][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.07.09-17.18.51:222][957]LogSavePackage: Moving output files for package: /Game/NewFolder/Advanced_Lighting
+[2023.07.09-17.18.51:222][957]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/Advanced_LightingFAFF7D3646155FCBEA7F84A2CA5C4B7D.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/Advanced_Lighting.umap'
+[2023.07.09-17.18.51:233][957]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.051
+[2023.07.09-17.18.51:234][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/StarterMap_BuiltData" FILE="../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/StarterMap_BuiltData.uasset" SILENT=true
+[2023.07.09-17.18.51:294][957]LogSavePackage: Moving output files for package: /Game/NewFolder/StarterMap_BuiltData
+[2023.07.09-17.18.51:294][957]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/StarterMap_BuiltData72E38C8F4517874F061376ABAB59684A.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/StarterMap_BuiltData.uasset'
+[2023.07.09-17.18.51:310][957]LogSavePackage: Moving output files for package: /Game/NewFolder/Minimal_Default_BuiltData
+[2023.07.09-17.18.51:310][957]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/Minimal_Default_BuiltDataF674BB104856FC04FDC53DAE2175BFAF.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/Minimal_Default_BuiltData.uasset'
+[2023.07.09-17.18.51:319][957]LogSavePackage: Moving output files for package: /Game/NewFolder/Advanced_Lighting_BuiltData
+[2023.07.09-17.18.51:319][957]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/Advanced_Lighting_BuiltDataB73CD2D943F80CE6BA1074B973DCDEBD.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/Advanced_Lighting_BuiltData.uasset'
+[2023.07.09-17.18.51:330][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 356 ms (total: 853 ms)
+[2023.07.09-17.18.51:411][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.09-17.18.51:431][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.07.09-17.18.51:449][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.09-17.18.51:480][957]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.09-17.18.51:480][957]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewFolder/Minimal_Default.Minimal_Default
+[2023.07.09-17.18.51:480][957]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/NewFolder/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData
+[2023.07.09-17.18.51:480][957]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewFolder/StarterMap.StarterMap
+[2023.07.09-17.18.51:480][957]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewFolder/Advanced_Lighting.Advanced_Lighting
+[2023.07.09-17.18.51:480][957]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/NewFolder/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.07.09-17.18.51:480][957]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/NewFolder/StarterMap_BuiltData.StarterMap_BuiltData
+[2023.07.09-17.20.26:299][ 16]LogMetaData: Removing '/Game/StarterContentDev/Minimal_Default.Minimal_Default_C' ref from Metadata '/Game/NewFolder/Minimal_Default.PackageMetaData'
+[2023.07.09-17.20.26:299][ 16]LogMetaData: Removing '/Game/StarterContentDev/Minimal_Default.SKEL_Minimal_Default_C' ref from Metadata '/Game/NewFolder/Minimal_Default.PackageMetaData'
+[2023.07.09-17.20.26:300][ 16]LogMetaData: Removing '/Game/StarterContentDev/StarterMap.StarterMap_C' ref from Metadata '/Game/NewFolder/StarterMap.PackageMetaData'
+[2023.07.09-17.20.26:300][ 16]LogMetaData: Removing '/Game/StarterContentDev/StarterMap.StarterMap_C:ReceiveBeginPlay' ref from Metadata '/Game/NewFolder/StarterMap.PackageMetaData'
+[2023.07.09-17.20.26:300][ 16]LogMetaData: Removing '/Game/StarterContentDev/StarterMap.SKEL_StarterMap_C' ref from Metadata '/Game/NewFolder/StarterMap.PackageMetaData'
+[2023.07.09-17.20.26:301][ 16]LogMetaData: Removing '/Game/StarterContentDev/StarterMap.SKEL_StarterMap_C:ReceiveBeginPlay' ref from Metadata '/Game/NewFolder/StarterMap.PackageMetaData'
+[2023.07.09-17.20.26:302][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.09-17.20.26:332][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-17.20.26:417][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.07.09-17.20.26:429][ 16]LogSavePackage: Moving output files for package: /Game/StarterContentDev/Minimal_Default
+[2023.07.09-17.20.26:429][ 16]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/Minimal_DefaultC72DF3BB480ACB8F1E73299E8EDA3CBD.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/Minimal_Default.umap'
+[2023.07.09-17.20.26:439][ 16]LogFileHelpers: Saving map 'Minimal_Default' took 0.108
+[2023.07.09-17.20.26:440][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-17.20.26:510][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.07.09-17.20.26:578][ 16]LogSavePackage: Moving output files for package: /Game/StarterContentDev/StarterMap
+[2023.07.09-17.20.26:578][ 16]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/StarterMap272903574621C28C778194844E63EA9F.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/StarterMap.umap'
+[2023.07.09-17.20.26:595][ 16]LogFileHelpers: Saving map 'StarterMap' took 0.156
+[2023.07.09-17.20.26:596][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.09-17.20.26:619][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.07.09-17.20.26:627][ 16]LogSavePackage: Moving output files for package: /Game/StarterContentDev/Advanced_Lighting
+[2023.07.09-17.20.26:627][ 16]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/Advanced_Lighting1D745B574231922CC3AE278E25CF5E80.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/Advanced_Lighting.umap'
+[2023.07.09-17.20.26:636][ 16]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.040
+[2023.07.09-17.20.26:693][ 16]LogSavePackage: Moving output files for package: /Game/StarterContentDev/StarterMap_BuiltData
+[2023.07.09-17.20.26:693][ 16]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/StarterMap_BuiltData737B3A3E43CAF6EB33AAFF85EEED23A6.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/StarterMap_BuiltData.uasset'
+[2023.07.09-17.20.26:708][ 16]LogSavePackage: Moving output files for package: /Game/StarterContentDev/Minimal_Default_BuiltData
+[2023.07.09-17.20.26:708][ 16]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/Minimal_Default_BuiltData8AB13B34494C7C33AD5EF4815646FFF2.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/Minimal_Default_BuiltData.uasset'
+[2023.07.09-17.20.26:716][ 16]LogSavePackage: Moving output files for package: /Game/StarterContentDev/Advanced_Lighting_BuiltData
+[2023.07.09-17.20.26:716][ 16]LogSavePackage: Moving '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Saved/Advanced_Lighting_BuiltData245351534D2A7DC2112E298D2EA9EF39.tmp' to '../../../../../../Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/Advanced_Lighting_BuiltData.uasset'
+[2023.07.09-17.20.26:727][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 424 ms (total: 1.27 sec)
+[2023.07.09-17.20.26:793][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.07.09-17.20.26:812][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.07.09-17.20.26:829][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.07.09-17.20.26:853][ 16]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.09-17.20.26:853][ 16]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContentDev/Minimal_Default.Minimal_Default
+[2023.07.09-17.20.26:853][ 16]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/StarterContentDev/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData
+[2023.07.09-17.20.26:853][ 16]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContentDev/StarterMap.StarterMap
+[2023.07.09-17.20.26:853][ 16]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContentDev/Advanced_Lighting.Advanced_Lighting
+[2023.07.09-17.20.26:853][ 16]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/StarterContentDev/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.07.09-17.20.26:853][ 16]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/StarterContentDev/StarterMap_BuiltData.StarterMap_BuiltData

@@ -5,7 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/Minimal_Default.umap",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/StarterMap.umap",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/Advanced_Lighting.umap",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/StarterMap_BuiltData.uasset",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/Minimal_Default_BuiltData.uasset",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/NewFolder/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/Minimal_Default.umap",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/StarterMap.umap",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/Advanced_Lighting.umap",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/StarterMap_BuiltData.uasset",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/Minimal_Default_BuiltData.uasset",
+				"C:/Users/Eric/repos/Dev/UE_Cpp/WarehouseWreckage/Content/StarterContentDev/Advanced_Lighting_BuiltData.uasset"
 			]
 		}
 	]
